@@ -3,7 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parcial2Pilas", "Parcial2Pilas.csproj", "{BABB7DB8-6A2C-48B2-B37F-1E6D018C0371}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parcial2Pilas", "Parcial2Pilas.csproj", "{BABB7DB8-6A2C-48B2-B37F-1E6D018C0371}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{DDB5A517-0A8F-4372-85EF-B964E7906731}"
+	ProjectSection(SolutionItems) = preProject
+		Form4.cs = Form4.cs
+		Form4.Designer.cs = Form4.Designer.cs
+		Form4.resx = Form4.resx
+		Form5.cs = Form5.cs
+		Form5.Designer.cs = Form5.Designer.cs
+		Form5.resx = Form5.resx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

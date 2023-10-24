@@ -69,14 +69,16 @@ namespace Parcial2Pilas
             {
                 dataGridView1.Rows.Add(item.Turno, item.Nombre, item.Tipo, item.Fecha);
             }
-            textBox3.Text = (misClientes.Count > 0) ? misClientes.Peek().Turno.ToString() : "";
+            //textBox3.Text = (misClientes.Count > 0) ? misClientes.Peek().Turno.ToString() : "";
             int temp = turnoAuto;
             temp--;
             textBox4.Text = (misClientes.Count > 0) ? temp.ToString() : "";
         }
         public void EliminaCola()
         {
+            textBox3.Text = (misClientes.Count > 0) ? misClientes.Peek().Turno.ToString() : "";
             MensajeSalida(misClientes.Dequeue());
+            textBox3.Text = "";
         }
         public bool ColaLleno()
         {
@@ -117,6 +119,21 @@ namespace Parcial2Pilas
             mensaje += "Tiempo de espera en la cola: " + espera.Minutes + " minutos y " + espera.Seconds + " segundos";
 
             MessageBox.Show(mensaje, "Tiempo de espera en la cola", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+    }
+    public class Cliente
+    {
+        public int Turno { get; set; }
+        public string Nombre { get; set; }
+        public string Tipo { get; set; }
+        public DateTime Fecha { get; set; }
+
+        public Cliente(int turno, string nombre, string tipo, DateTime fecha)
+        {
+            Turno = turno;
+            Nombre = nombre;
+            Tipo = tipo;
+            Fecha = fecha;
         }
     }
 }

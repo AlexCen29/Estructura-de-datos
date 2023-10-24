@@ -16,5 +16,47 @@ C:\Users\Alex Cen\source\repos\Parcial2Pilas\obj\Debug\net7.0-windows\Parcial2Pi
 C:\Users\Alex Cen\source\repos\Parcial2Pilas\obj\Debug\net7.0-windows\Parcial2Pilas.genruntimeconfig.cache
 C:\Users\Alex Cen\source\repos\Parcial2Pilas\obj\Debug\net7.0-windows\ref\Parcial2Pilas.dll
 C:\Users\Alex Cen\source\repos\Parcial2Pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form3.resources
-C:\Users\Alex Cen\source\repos\Parcial2Pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form4.resources
-C:\Users\Alex Cen\source\repos\Parcial2Pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form5.resources
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.exe
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.deps.json
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.runtimeconfig.json
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.dll
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.pdb
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form1.resources
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form2.resources
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.csproj.GenerateResource.cache
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.AssemblyInfoInputs.cache
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.AssemblyInfo.cs
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.csproj.CoreCompileInputs.cache
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.dll
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\refint\Parcial2Pilas.dll
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.pdb
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.genruntimeconfig.cache
+C:\Users\addie\Source\Repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\ref\Parcial2Pilas.dll
+C:\Users\addie\source\repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.programa11.resources
+C:\Users\addie\source\repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Properties.Resources.resources
+C:\Users\addie\source\repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.programa12.resources
+C:\Users\addie\source\repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form4.resources
+C:\Users\addie\source\repos\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form5.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.exe
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.deps.json
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.runtimeconfig.json
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.dll
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\bin\Debug\net7.0-windows\Parcial2Pilas.pdb
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form1.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form2.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form4.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Form5.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.programa11.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.programa12.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.Properties.Resources.resources
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.csproj.GenerateResource.cache
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.AssemblyInfoInputs.cache
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.AssemblyInfo.cs
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.csproj.CoreCompileInputs.cache
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.dll
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\refint\Parcial2Pilas.dll
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.pdb
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\Parcial2Pilas.genruntimeconfig.cache
+C:\Users\Alex Cen\Downloads\FINALCOLAS\addielpuc-alexcen_pilas\obj\Debug\net7.0-windows\ref\Parcial2Pilas.dll

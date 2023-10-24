@@ -46,36 +46,44 @@
             groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button1);
             groupBox1.Controls.Add(label1);
-            groupBox1.Location = new Point(12, 12);
+            groupBox1.Location = new Point(14, 16);
+            groupBox1.Margin = new Padding(3, 4, 3, 4);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(470, 341);
+            groupBox1.Padding = new Padding(3, 4, 3, 4);
+            groupBox1.Size = new Size(537, 455);
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
             groupBox1.Text = "groupBox1";
+            groupBox1.Enter += groupBox1_Enter;
             // 
             // button5
             // 
-            button5.Location = new Point(24, 187);
+            button5.Location = new Point(27, 249);
+            button5.Margin = new Padding(3, 4, 3, 4);
             button5.Name = "button5";
-            button5.Size = new Size(84, 23);
+            button5.Size = new Size(123, 31);
             button5.TabIndex = 5;
             button5.Text = "Programa 12";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button4
             // 
-            button4.Location = new Point(132, 131);
+            button4.Location = new Point(151, 175);
+            button4.Margin = new Padding(3, 4, 3, 4);
             button4.Name = "button4";
-            button4.Size = new Size(84, 23);
+            button4.Size = new Size(116, 31);
             button4.TabIndex = 4;
             button4.Text = "Programa 11";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button3
             // 
-            button3.Location = new Point(24, 131);
+            button3.Location = new Point(13, 175);
+            button3.Margin = new Padding(3, 4, 3, 4);
             button3.Name = "button3";
-            button3.Size = new Size(84, 23);
+            button3.Size = new Size(132, 31);
             button3.TabIndex = 3;
             button3.Text = "Programa 10";
             button3.UseVisualStyleBackColor = true;
@@ -83,9 +91,10 @@
             // 
             // button2
             // 
-            button2.Location = new Point(132, 79);
+            button2.Location = new Point(151, 105);
+            button2.Margin = new Padding(3, 4, 3, 4);
             button2.Name = "button2";
-            button2.Size = new Size(84, 23);
+            button2.Size = new Size(96, 31);
             button2.TabIndex = 2;
             button2.Text = "Programa 9";
             button2.UseVisualStyleBackColor = true;
@@ -93,9 +102,10 @@
             // 
             // button1
             // 
-            button1.Location = new Point(24, 79);
+            button1.Location = new Point(27, 105);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(84, 23);
+            button1.Size = new Size(96, 31);
             button1.TabIndex = 1;
             button1.Text = "Programa 8";
             button1.UseVisualStyleBackColor = true;
@@ -104,18 +114,19 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(24, 27);
+            label1.Location = new Point(27, 36);
             label1.Name = "label1";
-            label1.Size = new Size(164, 15);
+            label1.Size = new Size(205, 20);
             label1.TabIndex = 0;
             label1.Text = "Menú de programas con Pilas";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(groupBox1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Menu de programas";
             groupBox1.ResumeLayout(false);
